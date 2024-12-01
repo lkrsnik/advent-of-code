@@ -1,2 +1,7 @@
 .idea/
 venv
+**/*.rs.bk
+*.pdb
+**/Cargo.lock
+**/debug/
+**/target/
