@@ -5,3 +5,4 @@ venv
 **/Cargo.lock
 **/debug/
 **/target/
+2024/advent-of-code-rust
